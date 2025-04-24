@@ -1,3 +1,6 @@
+//Enviroment is for diferent code running in different enviroment
+// in properties/ launchsetting.json
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
